@@ -21,7 +21,7 @@ jobs:
       YOUTH_READ5: ${{ secrets.YOUTH_READ5 }}
       YOUTH_READ6: ${{ secrets.YOUTH_READ6 }}
       YOUTH_READ7: ${{ secrets.YOUTH_READ7 }}      
-      YOUTH_READ8: ${{ secrets.YOUTH_READ4 }}        
+      YOUTH_READ8: ${{ secrets.YOUTH_READ8 }}        
       TZ: Asia/shanghai
     steps:
       - name: Checkout
